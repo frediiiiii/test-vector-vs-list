@@ -26,7 +26,7 @@ int main()
 	list<float*> l;
 
 	cout << "initilisation ... " << endl;
-	for (int i = 0; i < 1000000; i++)
+	for (int i = 0; i < 100000; i++)
 	{
 		v.push_back(new float(1.0));
 		l.push_back(new float(1.0));
@@ -51,7 +51,7 @@ int main()
 	cout << "parcours de v ... ";
 	t.reset();
 	t.start();
-	for (int i = 0; i < 1000000; i++)
+	for (int i = 0; i < 100000; i++)
 	{
 		calcul(v[i]);
 	}
