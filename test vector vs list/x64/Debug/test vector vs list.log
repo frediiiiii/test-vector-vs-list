@@ -1,5 +1,1 @@
-﻿  test vector vs list.cpp
-c:\users\frederic\documents\visual studio 2015\projects\test vector vs list\test vector vs list\test vector vs list.cpp(17): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-c:\users\frederic\documents\visual studio 2015\projects\test vector vs list\test vector vs list\test vector vs list.cpp(46): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-c:\users\frederic\documents\visual studio 2015\projects\test vector vs list\test vector vs list\test vector vs list.cpp(59): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-  test vector vs list.vcxproj -> C:\Users\frederic\Documents\Visual Studio 2015\Projects\test vector vs list\x64\Debug\test vector vs list.exe
+﻿  test vector vs list.vcxproj -> C:\Users\frederic\Documents\Visual Studio 2015\Projects\test vector vs list\x64\Debug\test vector vs list.exe
